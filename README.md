@@ -26,4 +26,4 @@ The scraper provides a streamlined, reusable foundation for professional data co
 ## Author
 **Onyekachi Ejimofor**  
 Data Scraping & Automation Specialist 
-💼 *Empowering businesses with structured, high-quality datasets.*
+
